@@ -46,6 +46,9 @@ const Buttons = () => {
         Send
       </Button>
       <h1>This is added after the git</h1>
+      <h1>This is added after the git</h1>
+      <h1>This is added after the git</h1>
+      <h1>This is added after the git</h1>
     </div>
   );
 };
